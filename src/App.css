@@ -1,0 +1,35 @@
+.App {
+    width: 700px;
+    margin: auto;
+}
+.accord-content {
+    background: #9E9E9E;
+    padding: 10px;
+    margin-bottom: 8px;
+    position: relative;
+    cursor: pointer;
+    transition: 0.7s;
+}
+.accord-content span {
+    display: block;
+    position: absolute;
+    right: 19px;
+    bottom: 38%;
+    font-size: 32px;
+    cursor: pointer;
+}
+button {
+    display: block;
+    margin: auto;
+    background: red;
+    color: white;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 27px;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
